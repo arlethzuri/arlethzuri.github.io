@@ -5,4 +5,5 @@ title: cv
 nav: true
 nav_order: 4
 redirect_to: SAFE_Arleth_CV.pdf
+cv_pdf: SAFE_Arleth_CV.pdf
 ---
