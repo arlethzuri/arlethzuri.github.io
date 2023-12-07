@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /cv/
+permalink: /assets/pdf/
 title: cv
 nav: true
 nav_order: 4
-redirect_to: assets/pdf/SAFE_Arleth_CV.pdf
+redirect_to: SAFE_Arleth_CV.pdf
 ---
